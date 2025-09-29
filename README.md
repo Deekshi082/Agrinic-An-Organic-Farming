@@ -43,7 +43,7 @@ Platform: Android/iOS mobile app
 
 Clone this repository:
 
-git clone https://github.com/your-username/agrinic-app.git
+https://github.com/Deekshi082/Agrinic-An-Organic-Farming.git
 
 
 Open the project in Flutter-supported IDE (VS Code or Android Studio).
