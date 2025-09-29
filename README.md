@@ -59,15 +59,6 @@ Run the app on an emulator or physical device:
 
 flutter run
 
-📂 Project Structure
-agrinic_app/
-│── lib/
-│   │── main.dart           # Entry point
-│   │── screens/            # All screen UI files
-│   │── widgets/            # Reusable UI widgets
-│── assets/                 # Images, icons, Lottie animations
-│── pubspec.yaml             # Flutter dependencies
-│── README.md               # Project documentation
 
 🚀 Future Enhancements
 
