@@ -42,7 +42,7 @@ The main goal of Agrinic is to promote sustainable agriculture by reducing depen
 ## Installation
 
 1. Clone this repository  
-   
+   ```bash
    git clone https://github.com/Deekshi082/Agrinic-An-Organic-Farming.git
 
 
@@ -55,6 +55,8 @@ Connect your Firebase project
 Run the app on an emulator or device
 
 flutter run
+
+
 
 Developed By
 
