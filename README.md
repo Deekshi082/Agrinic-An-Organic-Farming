@@ -1,23 +1,23 @@
 
-# 🌿 Agrinic: An Organic Farming Application
+# Agrinic: An Organic Farming Application
 
 Agrinic is a mobile application designed to guide farmers and agricultural enthusiasts in practicing **organic farming** efficiently. It helps users access crop-specific guides, seasonal crop suggestions, and market prices — all in one platform.  
 The main goal of Agrinic is to promote sustainable agriculture by reducing dependency on chemical fertilizers and supporting eco-friendly farming practices.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🌱 **Organic Crop Guide** – Step-by-step guidance for growing crops organically.  
-- 📅 **Seasonal Crop Suggestions** – Know which crops to grow in each season.  
-- 💰 **Market Prices** – Stay updated with real-time market prices for various crops.  
-- ☁️ **Weather Information** – Displays real-time weather to support farming decisions.  
-- 🔐 **Admin Panel** – Admins can add or update crop prices securely.  
-- 🧭 **User-Friendly Interface** – Simple and intuitive design built using Flutter.
+- **Organic Crop Guide** – Step-by-step guidance for growing crops organically.  
+- **Seasonal Crop Suggestions** – Know which crops to grow in each season.  
+- **Market Prices** – Stay updated with real-time market prices for various crops.  
+- **Weather Information** – Displays real-time weather to support farming decisions.  
+- **Admin Panel** – Admins can add or update crop prices securely.  
+- **User-Friendly Interface** – Simple and intuitive design built using Flutter.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** Flutter  
 - **Backend:** Firebase (Firestore, Authentication)  
@@ -29,17 +29,17 @@ The main goal of Agrinic is to promote sustainable agriculture by reducing depen
 
 ## 📸 Screenshots  
 
-| 🏠 Home Screen | 💰 Market Price Screen | 🗂️ Crop Categories |
+| Home Screen | Market Price Screen | Crop Categories |
 |----------------|------------------------|--------------------|
 | ![Home Screen](screenshots/home.jpg) | ![Market Price](screenshots/price.jpg) | ![Categories](screenshots/category.jpg) |
 
-| 🍎 Fruits Category | 🥕 Vegetables Category | 📖 Crop Guide |
+| Fruits Category | Vegetables Category | Crop Guide |
 |--------------------|------------------------|---------------|
 | ![Fruits](screenshots/fruit.jpg) | ![Vegetables](screenshots/vegetables.jpg) | ![Guide](screenshots/guide.jpg) |
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 1. Clone this repository  
    
@@ -56,7 +56,7 @@ Run the app on an emulator or device
 
 flutter run
 
-👨‍💻 Developed By
+Developed By
 
 Deekshith S
 📧 deekshi082@gmail.com
