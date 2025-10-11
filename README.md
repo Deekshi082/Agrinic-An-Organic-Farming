@@ -61,8 +61,7 @@ flutter run
 Deekshith S
 📧 deekshi082@gmail.com
 
-🔗 LinkedIn
 
-🏆 License
 
-This project is licensed under the MIT License – feel free to use and modify with credit.
+
+feel free to use and modify with credit.
