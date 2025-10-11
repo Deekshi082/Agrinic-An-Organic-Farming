@@ -31,11 +31,11 @@ The main goal of Agrinic is to promote sustainable agriculture by reducing depen
 
 | 🏠 Home Screen | 💰 Market Price Screen | 🗂️ Crop Categories |
 |----------------|------------------------|--------------------|
-| ![Home Screen](assets/home.jpg) | ![Market Price](assets/price.jpg) | ![Categories](assets/category.jpg) |
+| ![Home Screen](screenshots/home.jpg) | ![Market Price](screenshots/price.jpg) | ![Categories](screenshots/category.jpg) |
 
 | 🍎 Fruits Category | 🥕 Vegetables Category | 📖 Crop Guide |
 |--------------------|------------------------|---------------|
-| ![Fruits](assets/fruits.jpg) | ![Vegetables](assets/vegetables.jpg) | ![Guide](assets/guide.jpg) |
+| ![Fruits](screenshots/fruits.jpg) | ![Vegetables](screenshots/vegetables.jpg) | ![Guide](screenshots/guide.jpg) |
 
 ---
 
