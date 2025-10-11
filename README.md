@@ -35,7 +35,7 @@ The main goal of Agrinic is to promote sustainable agriculture by reducing depen
 
 | 🍎 Fruits Category | 🥕 Vegetables Category | 📖 Crop Guide |
 |--------------------|------------------------|---------------|
-| ![Fruits](screenshots/fruits.jpg) | ![Vegetables](screenshots/vegetables.jpg) | ![Guide](screenshots/guide.jpg) |
+| ![Fruits](screenshots/fruit.jpg) | ![Vegetables](screenshots/vegetables.jpg) | ![Guide](screenshots/guide.jpg) |
 
 ---
 
